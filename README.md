@@ -5,6 +5,8 @@ Blog- CRUD Application using Ruby on Rails
 * Ruby version
   ruby 3.2.2
   
+  Updated the landing page a bit so it looks more appealing
+  
 # SCREENSHOT
 
 
